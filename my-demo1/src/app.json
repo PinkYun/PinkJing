@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/login/main",
+    "pages/user/main",
+    "pages/record/main",
+    "pages/helpCenter/main",
+    "pages/nearlist/main",
+    "pages/about/main",
+    "pages/bangding/main",
+    "pages/scanlist/main",
+    "pages/success/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Wechart",
+    "navigationBarTextStyle": "black"
+  }
+}
